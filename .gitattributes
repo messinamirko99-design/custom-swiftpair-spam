@@ -1,0 +1,6 @@
+# Tell GitHub Linguist to treat this as a Kotlin project
+*.kt linguist-language=Kotlin
+*.kts linguist-language=Kotlin
+
+# Prevent Gemfile from skewing language stats
+Gemfile linguist-detectable=false

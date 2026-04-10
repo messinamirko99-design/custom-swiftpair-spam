@@ -1,0 +1,26 @@
+# Local Android SDK path — never commit this
+local.properties
+
+# Android build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Build directories
+build/
+.gradle/
+
+# Android Studio IDE files
+*.iml
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keystore / signing
+*.jks
+*.keystore
+
+# Generated files
+gen/
+out/
