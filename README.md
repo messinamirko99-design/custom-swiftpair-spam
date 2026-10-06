@@ -41,7 +41,7 @@ The key addition is the ability to define your own SwiftPair advertisement data,
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/lol753/custom-swiftpair-spam.git
+   git clone https://github.com/messinamirko99-design/custom-swiftpair-spam.git
    cd custom-swiftpair-spam
    ```
 
@@ -62,4 +62,4 @@ This app is intended for **educational and testing purposes only**. Spamming Blu
 ## Credits
 
 - Original app: [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)
-- Custom SwiftPair additions: [@lol753](https://github.com/lol753)
+- Custom SwiftPair additions: [@messinamirko99-design](https://github.com/messinamirko99-design)
